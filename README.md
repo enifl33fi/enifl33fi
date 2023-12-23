@@ -2,7 +2,7 @@
 
 ## A little bit about me...
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2bGM5djY4NWVmOGdyNThvcjJ3cmEwY2twb25hOTd3Ym43ZjByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width=230px>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2bGM5djY4NWVmOGdyNThvcjJ3cmEwY2twb25hOTd3Ym43ZjByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width=250px>
 
 Hi, I'm Kirill Markov👋
 - 🎓 2nd year ITMO student
@@ -40,5 +40,4 @@ Hi, I'm Kirill Markov👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enifl33fi&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enifl33fi&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enifl33fi&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=enifl33fi&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enifl33fi&theme=solarized_dark&utcOffset=3)
