@@ -5,8 +5,8 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2bGM5djY4NWVmOGdyNThvcjJ3cmEwY2twb25hOTd3Ym43ZjByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" align="right" width=250px>
 
 Hi, I'm Kirill Markov👋
-- 🎓 3rd year ITMO student
-- 🌱 20 years old
+- 🎓 4th year ITMO student
+- 🌱 21 years old
 - 🌍 St. Petersburg, Russia
 - 📚 I’m currently learning Angular
 - 📫 How to reach me: enifl33fi@gmail.com
